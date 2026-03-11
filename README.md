@@ -1,4 +1,4 @@
-# Bienvenue sur le GitHub de prénom-nom
+# Bienvenue sur le GitHub de Eric Penneçot
 
 Je suis développeur full-stack Java / Angular, avec plus de 4 ans d’expérience, principalement dans des environnements Agile.
 
